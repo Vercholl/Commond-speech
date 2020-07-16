@@ -1,0 +1,10 @@
+C:\Users\maxfa\Desktop\Commond speech\bin\x86\Debug\Commond speech.exe.config
+C:\Users\maxfa\Desktop\Commond speech\bin\x86\Debug\Commond speech.exe
+C:\Users\maxfa\Desktop\Commond speech\bin\x86\Debug\Commond speech.pdb
+C:\Users\maxfa\Desktop\Commond speech\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\maxfa\Desktop\Commond speech\obj\x86\Debug\SpeechRecognition.Form1.resources
+C:\Users\maxfa\Desktop\Commond speech\obj\x86\Debug\Commond_speech.Properties.Resources.resources
+C:\Users\maxfa\Desktop\Commond speech\obj\x86\Debug\Commond speech.csproj.GenerateResource.cache
+C:\Users\maxfa\Desktop\Commond speech\obj\x86\Debug\Commond speech.csproj.CopyComplete
+C:\Users\maxfa\Desktop\Commond speech\obj\x86\Debug\Commond speech.exe
+C:\Users\maxfa\Desktop\Commond speech\obj\x86\Debug\Commond speech.pdb
